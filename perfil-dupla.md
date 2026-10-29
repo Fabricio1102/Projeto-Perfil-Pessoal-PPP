@@ -2,14 +2,14 @@ Perfil-dupla.md
  Perfil da Dupla
 
 ## Nome da dupla
-Os maconeiros lesgais
+The seniors masters
 
 ## Cor favorita da dupla
-RGB
+verde
 
 ## Comida favorita da dupla
-ARROZ E BATATA SECA
+Mousse de maracuja e limão
 
 ## Frase da dupla
-VIVA SEM PENSAR NO AMANHÃ, POIS NN SABEMOS SE ELE CHEGARÁ
+A vida é um momento
 
