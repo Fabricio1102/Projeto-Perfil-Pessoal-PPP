@@ -1,13 +1,15 @@
-# Perfil da Dupla
+Perfil-dupla.md
+ Perfil da Dupla
 
 ## Nome da dupla
-Fabricio Luan
+Os maconeiros lesgais
 
 ## Cor favorita da dupla
-Vermelho
+RGB
 
 ## Comida favorita da dupla
-Strogonoff Arroz feijão e batata
+ARROZ E BATATA SECA
 
 ## Frase da dupla
-A vida é um momento a ser vivido
+VIVA SEM PENSAR NO AMANHÃ, POIS NN SABEMOS SE ELE CHEGARÁ
+
