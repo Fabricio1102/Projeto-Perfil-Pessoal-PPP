@@ -2,14 +2,15 @@ Perfil-dupla.md
  Perfil da Dupla
 
 ## Nome da dupla
-The seniors masters
+Fabrício e Luan
 
 ## Cor favorita da dupla
-verde
+Vermelho
 
 ## Comida favorita da dupla
-Mousse de maracuja e limão
+Strogonoff e arroz feijão e batata.
 
 ## Frase da dupla
-A vida é um momento
+A vida é um momento a ser vivido
+Bom dia
 
